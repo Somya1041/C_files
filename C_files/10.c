@@ -8,4 +8,3 @@ int main()
     printf("%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t", a,b,c,d,e,f,g,h,i,j);
     return 0;
 }
-
